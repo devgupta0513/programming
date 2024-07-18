@@ -9,7 +9,7 @@ using namespace std;
  	if(n%i==0)
  	return false;
  	i++;
- }
+ }hrt hrighirhgihd8ghelrjghperyhgl herp98glerjhg
  
  
  int main()
