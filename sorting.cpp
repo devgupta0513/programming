@@ -62,7 +62,7 @@ void selectionsort(int a[], int n)
 		}
 	}
 }
-}
+
 int partioning(int A[], int low, int high)
 {
 	int pivot, temp, i, j;
@@ -227,4 +227,3 @@ int main()
 
 	return 0;
 }
-
